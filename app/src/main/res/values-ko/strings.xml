@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lolhistory</string>
+
+    <string name="input_summoner_name">소환사의 이름을 입력해주세요.</string>
+    <string name="enter">확인</string>
+
+</resources>

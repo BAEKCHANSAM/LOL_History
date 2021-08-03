@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lolhistory</string>
+
+    <string name="input_summoner_name">Please input your Summoner name.</string>
+    <string name="enter">Enter</string>
+
+</resources>
